@@ -132,7 +132,7 @@ sliderBtn.addEventListener('click', function () {
 })
 
 
-// New add spinner
+// Improved add spinner
 const toggleSpinner = () => {
   const spinner = document.getElementById('loading-spinner');
   spinner.classList.toggle('d-none');
